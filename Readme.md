@@ -9,7 +9,7 @@ leaving very little to Google.
 This is a simplified demo just for login. The following is a more comprehensive demo of most (all) 
 weChat features that really helped me figure out login: https://github.com/cihm/WeChatDemo
 
-Link to an article I wrote about the experience: http://aaronbruckner.com/articleWeChat.html
+Link to an article I wrote about the experience: http://aaronbruckner.com/article_weChat.html
 
 # Create a WeChat App
 
