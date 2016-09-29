@@ -102,3 +102,7 @@ in WeChat, nothing at all will happen when you request an authorization. Basical
 Once everything is lined up, there is very little code needed to generate a token. However if anything is incorrect,
 you will likely never see any transition to WeChat, a failure to load WeChat if a transition occurs, or no response 
 from WeChat after you give your application access.
+
+### Legal
+
+You are free to use any code from this example but do so at your own risk! WeChat is very hard to navigate. Please reach out if you find anything bugs.
