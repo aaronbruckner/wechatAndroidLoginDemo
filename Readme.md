@@ -105,4 +105,6 @@ from WeChat after you give your application access.
 
 ### Legal
 
-You are free to use any code from this example but do so at your own risk! WeChat is very hard to navigate. Please reach out if you find anything bugs.
+You are free to use any code from this example but do so at your own risk! WeChat is very hard to navigate.
+
+Note: I cannot answer any questions about this. It's been too long and too scaring to look at again.
