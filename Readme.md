@@ -107,4 +107,6 @@ from WeChat after you give your application access.
 
 You are free to use any code from this example but do so at your own risk! WeChat is very hard to navigate.
 
-Note: I cannot answer any questions about this. It's been too long and too scaring to look at again.
+**Note: I cannot answer any questions about WeChat. It's been too long and too scarring to look at again.**
+
+Good luck!
